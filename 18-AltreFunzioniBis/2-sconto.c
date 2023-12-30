@@ -11,8 +11,23 @@
 
 */
 
+double  ArticoliScontati(double PrezzoIniziale) {
+
+    const float SCONTO = 0.2;
+
+    return PrezzoIniziale-(PrezzoIniziale*SCONTO);
+}
+
 int main(){
     
+    double PrezzoIniziale, PrezzoScontato;
+
+    printf("Inserisci il prezzo del tuo articolo: ");
+    scanf("%lf",&PrezzoIniziale);
+
+    PrezzoScontato = ArticoliScontati(PrezzoIniziale);
+    printf("Il tuo articolo scontato e' ora du %.2lf eur ",PrezzoScontato);
+
     return 0;
 
 }
