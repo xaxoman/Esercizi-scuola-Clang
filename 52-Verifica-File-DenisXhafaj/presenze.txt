@@ -1,0 +1,11 @@
+Cavalli 3IC 4
+Fabbri 3IC 5
+Genovesi 3IB 6
+Gialii 3IA 4
+Milanesi 3IB 6
+Neri 3IA 6
+Rossi 3IA 6
+Rossi 3IC 5
+Torinesi 3IB 5
+Valeri 3IC 4
+Verdi 3IA 5

@@ -1,0 +1,6 @@
+Gialii 3IA 4
+Neri 3IA 6
+Rossi 3IA 6
+Verdi 3IA 5
+Totale studenti: 4
+Media ore di presenza: 5.25

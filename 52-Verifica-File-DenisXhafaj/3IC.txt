@@ -1,0 +1,6 @@
+Cavalli 3IC 4
+Fabbri 3IC 5
+Rossi 3IC 5
+Valeri 3IC 4
+Totale studenti: 4
+Media ore di presenza: 4.50
